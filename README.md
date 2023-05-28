@@ -1,3 +1,5 @@
+[![forthebadge](data:image/svg+xml;base64,=)](https://forthebadge.com)
+
 # Flappybird
 Cópia do famoso jogo "Flappy Bird" usando Pygame.
 Projeto feito seguindo tutorial do Tech with Tim: https://www.youtube.com/@TechWithTim
